@@ -1,0 +1,48 @@
+body {
+    font-size 16px;
+    padding 5px;
+}
+
+button.def_button {
+    font-size 16px;
+}
+
+fieldset.fs {
+    -moz-border-radius 8px;
+    -webkit-border-radius 8px;
+    border-radius 8px;
+    margin-top 5px;
+    margin-bottom 5px;
+}
+
+input.user-label {
+    display block;
+    border 1px solid gray;
+    border-radius 4px;
+    padding 3px;
+    margin-top 3px;
+    margin-bottom 3px;
+    width 200px;
+}
+
+input.time {
+    display block;
+    border 1px solid gray;
+    border-radius 4px;
+    padding 3px;
+    margin-top 3px;
+    margin-bottom 3px;
+}
+
+select.label {
+    margin-top 3px;
+    margin-bottom 3px;
+    display block;
+}
+
+select {
+    width 350px;
+}
+p.mg_left{
+    margin-left 42px;
+}
